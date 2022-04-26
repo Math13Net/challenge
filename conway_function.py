@@ -1,9 +1,9 @@
-# suite conconway
+# suite conway
 # prop 1 : c_n est constiuté de 1, 2 et 3 uniquement
 # prop 2 : c_n est constituée de 92 briques élémentaires
 # liste ici : http://www.se16.info/js/lands2.htm
 # prop 3 : tous les termes de la suite possède 1 nombre pair de chiffre sauf le terme initial
-# prop 4 : à partir du 4ème terme, les termes de rang par se terminent par 211, ceux de rang imparis par 221
+# prop 4 : à partir du 4ème terme, les termes de rang pair se terminent par 211, ceux de rang imparis par 221
 # prop 5 : à partir du 8ème terme, les termes commencent cycliquement par 1113, 3113 et 1321
 # prop 6 : c_n est croissante et l_n aussi
 # prop 7 : les termes de la suite possède 50pc de 1, 31pc de 2 et 19pc de 3
